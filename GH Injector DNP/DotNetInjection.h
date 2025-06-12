@@ -1,9 +1,4 @@
-﻿﻿/*
- * Author:       Broihon
- * Copyright:    Guided Hacking™ © 2012-2023 Guided Hacking LLC
-*/
-
-#pragma once
+﻿#pragma once
 
 #include "pch.h"
 
